@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
-**tensess/tensess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Focus:** Developing mobile applications with **Flutter**, currently working on **Qualia Sync**.
 
-Here are some ideas to get you started:
+**Languages:**
+* <img src="https://raw.githubusercontent.com/dart-lang/site-shared/master/src/_assets/image/dart/logo/64.png" width="18" align="center" /> ` Dart `
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="18" align="center" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="18" align="center" /> ` JavaScript / TypeScript `
+* 🦀 ` Rust ` (Learning as a hobby)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Interests:**
+* 🎸 **Playing Baritone Ukulele**
+* 🌍 **Traveling**
+* 🧠 **Neurobiology**
+
